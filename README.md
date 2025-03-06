@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game with AI
 
-## Overview
+## 📌 Overview
 
 This project implements a **Tic-Tac-Toe** game where a human player competes against an AI opponent using the **minimax algorithm**. The AI makes optimal moves to maximize its chances of winning, offering a competitive yet simple game experience. The game’s design showcases the application of strategic decision-making in a small, interactive environment.
 
